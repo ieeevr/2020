@@ -1,0 +1,26 @@
+---
+layout: default
+title: Research Demos
+menu:
+    name: Research Demos
+    parent: Program
+    position: 8
+permalink: /program/research-demos.html
+---
+
+# Research Demos
+
+{% for paper in site.data.research-demos %}
+### {{ paper.Title }}
+
+{% include join-authors.html paper=paper %}
+
+{% if paper.Abstract != Nil %}
+Abstract: &ldquo;{{ paper.Abstract }}&rdquo;
+{% endif %}
+
+{% unless forloop.last %}
+---
+{% endunless %}
+
+{% endfor %}

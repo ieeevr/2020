@@ -1,0 +1,132 @@
+---
+layout: default
+title: Tutorials
+menu:
+  name: Tutorials
+  parent: Program
+  position: 2
+---
+# Tutorials
+The following tutorials will be held at IEEE Virtual Reality 2019:
+
+* [T1: Hack Our Material Perception in Spatial Augmented Reality](#AR)
+* [T2: Eye-tracking in 360: Methods, Challenges, and Opportunities](#EYETRACKING)
+* [T3: Introduction to Deep Learning](#DL)
+* [T4: The Replication Crisis in Empirical Science: Implications for Human Subject Research in Mixed Reality](#STATISTICS)
+
+
+
+<a name="AR" class="anchor"></a>
+<hr/>
+### T1: (AR) Hack Our Material Perception in Spatial Augmented Reality
+
+<img class="img-responsive" src="../img/tutorials/HackOurMaterialPerception.jpg">
+**Organizer:** 
+* Toshiyuki Amano, *Wakayama University, Japan*
+* Daisuke Iwai, *Osaka University, Japan*
+* Keita Hirai, *Chiba University, Japan*
+* Takahiro Kawabe *NTT, Japan*
+* Katsunori Okajima, *Yokohama National University, Japan*
+* Yoshihiro Watanabe, *Tokyo Institute of Technology,Japan*
+
+**Abstract:** Spatial augmented reality (SAR), a.k.a projection mapping, alters the appearance of a real surface by visually overlaying computer generated images onto it. Compared to other AR approaches which apply either video or optical see-through displays, SAR has an important advantage, i.e., any display devices do not block observers’ sights, and consequently, the observers can see the augmentation directly on the surfaces with wide field of view and natural 3D cues without any physical constraints on their bodies. The ultimate goal of SAR is “believably manipulating the material properties of real world surfaces.” To this end, previous efforts solved various fundamental technical problems such as geometric registration and color correction enabling to display desired images onto non-planar and textured surfaces. However, they work only in limited situations where the surface is typically static, only view-independent material property can be manipulated, and so on.
+
+In 2010s, Japanese researchers from multidisciplinary fields including computer science, psychophysics, and neuroscience, have tackled challenging technical issues to relax the limitations, under the support of Grant-in-Aid for Scientific Research on Innovative Areas by MEXT, Japan: “Brain and Information Science on SHITSUKAN\*” and “Understanding human recognition of material properties for innovation in SHITSUKAN science and technology”. Consequently, adopting advanced technologies such as high speed imaging and digital fabrication, they have successfully achieved various technical innovations allowing projection mapping on dynamic even deformable objects, view-dependent material property manipulation, and truthful appearance control in spectral domain. More than just relaxing the previously recognized limitations, they have also opened up new SAR research directions such as shape manipulation of real surface and material property manipulation in other modalities than vision. In this tutorial, we would like to share these advanced technologies with audiences.
+
+(\*: SHITSUKAN is a Japanese word meaning perceptual qualities of a material)
+
+
+<a name="EYETRACKING" class="anchor"></a>
+<hr/>
+### T2: (EYETRACKING) Eye-tracking in 360: Methods, Challenges, and Opportunities
+<img class="img-responsive" src="../img/tutorials/EyeTracking.jpg" width="65%" height="100%">
+
+**Organizers:** 
+* Olivier LE MEUR, *IRISA University of Rennes, France*
+* Eakta JAIN, *University of Florida, USA*
+ 
+**Abstract:** As eye-trackers are being built into commodity head-mounted displays, applications such as gaze-based interaction are poised to enter the mainstream. Gaze is a natural indicator of what the user is interested in. Eye-tracking in virtual environments offers the opportunity to study human behavior in simulated settings, both for the purpose of creating realistic virtual avatars, and to learn models of saliency that apply to a three-dimensional scene. Research findings, such as consistency in where people look at in images and videos, and biases in two dimensional eye-tracking (e.g. center bias) will need to be replicated and/or rediscovered in VR (e.g. equator bias as a generalization of center bias). These are only a few examples of the rich lines of inquiry waiting to be explored by VR researchers and practitioners who have a working knowledge of eye-tracking.
+
+In this tutorial, we will cover three topic areas:
+  * The human vision system, the eyes, and models/parameters that are relevant to virtual reality
+  * Eye-tracking technology and methods for collecting reliable data from human participants
+  * Methods to generate heat maps from eye-tracking data
+
+Intended Audience
+The tutorial will be of interest to students, faculty and researchers interested in quantifying user priorities and preferences using data from eye-tracking, develop gaze-based interaction techniques, and apply eye-tracking data toward generating virtual avatars.
+
+
+Expected Value for Audience
+Eye-trackers are now being built into commodity VR headsets (e.g. the FOVE headset, Tobii eye-trackers built into HTC Vive headsets). As a result, researchers and practitioners of VR must quickly develop a working understanding of eye-tracking. The audience members for this tutorial can expect to leave with the following:
+  * A basic understanding of the eye and the human visual system, with a focus on the parameters that are relevant to eye-tracking in VR
+  * An understanding of methods for collecting eye-tracking data, including sample protocols and pitfalls to avoid
+  * A discussion of methods to generate saliency maps from eye-tracking data, including pseudocode and MATLAB implementations
+
+
+<a name="DL" class="anchor"></a>
+<hr/>
+### T3: (DL) Introduction to Deep Learning
+<img class="img-responsive" src="../img/tutorials/katzakis.jpg" width="40%" height="20%">
+
+**Organizers:** 
+* Nikolaos Katzakis, *University of Hamburg, Germany*
+
+**Topics:**
+* Deep Learning for Human-Computer Interaction
+* Fundamentals of Deep Learning
+* Common Neural Network Architectures
+* Training your first neural network
+
+**Technical level**: Basic programming knowledge.
+
+**Abstract:**
+
+HCI scientists study and process data generated by human activities to better understand human use of technology. Thanks to the advancement of a number of technologies human activity nowadays generates a large amount of data. Traditional programming approaches don’t perform well when it comes to classifying or handling imperfect or noisy data. Enter a new class of statistical models inspired by how the human brain functions. This category of models is commonly referred to as Deep Learning and has been successful at understanding certain types of data representations given a large enough training dataset.
+
+In this tutorial I will first introduce some applications of neural networks in the context of Human-Computer Interaction. I will then attempt to give you an intuitive understanding of how neural networks operate followed by introducing some architectures that have proven results in certain application areas. Finally, we will attempt to train a basic neural network using python on our laptop computers.
+
+### Contacts
+For more information, to inquire about a particular tutorial topic, or to submit a proposal, please contact the Tutorials Chairs:
+
+* Tabitha Peck, *Davidson College, USA*
+* Stephan Lukosch, *Delft University of Technology, The Netherlands*
+* Masataka Imura, *Kwansei Gakuin University, Japan*
+
+tutorials2019 [at] ieeevr.org
+
+
+<a name="STATISTICS" class="anchor"></a>
+<hr/>
+### T4: (STATISTICS) The Replication Crisis in Empirical Science: Implications for Human Subject Research in Mixed Reality
+
+<img class="img-responsive" src="../img/tutorials/Replication.jpg" width="40%" height="20%">
+
+**Organizers:** 
+* J. Edward Swan II, *Mississippi State University, USA*
+
+
+**Abstract:** 
+This tutorial will first discuss the replication crisis in empirical science.  This term was coined to describe recent significant failures to replicate empirical findings, in a number of fields, including medicine and psychology.  In many cases, over 50% of previously reported results could not be replicated.  This fact has shaken the foundations of these fields: Can empirical results really be believed?  Should, for example, medical decisions really be based on empirical research?  How many psychological findings can we believe?
+  
+After describing the crisis, the tutorial will revisit enough of the basics of empirical science to explain the origins of the replication crisis.  The key issue is that hypothesis testing, which in empirical science is used to establish truth, is the result of a probabilistic process.  However, the human mind is wired to reason absolutely: Humans have a difficult time understanding probabilistic reasoning.  The tutorial will discuss some of the ways that funding agencies, such as the US National Institutes of Health (NIH), have responded to the replication crisis, by, for example, funding replication studies, and requiring that grant recipients publicly post anonymized data.  Other professional organizations, including IEEE, have recently begun efforts to enhance the replicability of published research. 
+
+Finally, the tutorial will consider how the Virtual Environments community might respond to the replication crisis.  In particular, in our community the reviewing process often considers work that involves systems, architectures, or algorithms.  In these cases, the reasoning behind the correctness of the results is usually absolute.  Therefore, the standard for accepting papers is that the finding exhibits novelty—to some degree, the result should be surprising.  However, this standard does not work for empirical studies (which, typically, involve human experimental subjects).  Because empirical reasoning is probabilistic, important results need to be replicated, sometimes multiple times, and by different laboratories.  As the replications mount, the field is justified in embracing increasing belief in the results.  In other words, consider a field that, in order to accept a paper reporting empirical results, always requires surprise: This is a field that will not progress in empirical knowledge.
+
+The tutorial will end with a call for the community to be more accepting of replication studies.  In addition, the tutorial will consider whether actions taken by other fields, in response to the replication crisis, might also be recommendable for the Virtual Environments community. 
+
+The tutorial has the following outline:
+
+* Introduction
+* The Replication Crisis
+* Hypothesis Testing
+* Power, Effect Size, p-value 
+* The Replication Project: Psychology
+* What Does It Mean?
+* What Should We Do?
+
+The tutorial is structured around presenting, in depth, the following important paper, which reports the results of the Replication Project: Psychology.
+
+* Open Science Collaboration, “Estimating the Reproducibility of Psychological Science”, Science, 349(6251), 2015, DOI: 10.1126/science.aac4716 
+
+Although the Replication Crisis exists in a number of fields, including Medicine, Chemistry, Biology, Physics, and Earth and Environmental Science, the tutorial focuses on Cognitive Psychology, which uses experimental methods that are particularly relevant for our community.  The paper reports the results of attempting to replicate 100 studies, which were first published in three leading Psychology journals in 2008.  The statistical background allows the paper and results to be covered in some technical depth.  A major finding from the paper is that measures of surprisingness were negatively correlated with repeatability.  Other findings, and what they might mean for our community, are also presented and considered. 
+

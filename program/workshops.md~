@@ -1,0 +1,9 @@
+---
+layout: default
+title: Workshops
+
+menu:
+  name: Workshops
+  parent: Program
+  position: 0
+---
