@@ -7,31 +7,33 @@ menu:
   position: 0
 ---
 
-## Nominate VGTC VR/AR Career & Technical Achievement Awards
 
 The IEEE VGTC Virtual and Augmented Reality Technical Awards program 
 recognizes individuals who have made a significant contribution to the 
 community through their research.  
 
+![frontpage_top]({{ site.JB.ASSET_PATH }}/ieee_vr/images/vgtc_vi_2020.png){:width="30%";align="center"}
+## Victoria Interrante - VGTC Virtual Reality Career Award
+The 2020 Virtual Reality Career Award goes to Victoria Interrante in recognition of her lifetime contributions to visualization and visual perception for augmented and virtual reality. Professor Interrante has been a longtime member of the IEEE VR community. Her research has primarily focused on applying insights from visual perception and cognition to the development of more effective virtual reality experiences, including a large body of work addressing the need to enable accurate spatial understanding in immersive architectural environments. She enjoys collaborating with colleagues in a wide variety of fields and has been a committed mentor to a diverse array of graduate and undergraduate students. 
+
+Victoria Interrante is a Full Professor in the Department of Computer Science and Engineering at the University of Minnesota, where she is also currently serving as the Director of the University-wide Center for Cognitive Sciences.
+
+Professor Interrante received her PhD in 1996 from the University of North Carolina at Chapel Hill, where she was coadvised by Professors Henry Fuchs and Stephen Pizer. Her dissertation research focused on designing novel representational methods for supporting the accurate spatial perception and 3D understanding of layered transparent surfaces, primarily for applications in radiation therapy treatment planning. She joined the faculty at the University of Minnesota in 1998, after a two-year position with the Institute for Computer Applications in Science and Engineering at NASA Langley, where she worked on the development of data visualization methods to facilitate the understanding of 3D fluid flows. Soon afterward, she received the 1999 Presidential Early Career Award for Scientists and Engineers (PECASE) in recognition of the potential value in her research efforts at the intersection of computer graphics, visualization and perception. In 2004 she co-founded and served as the first general co-chair of the ACM Symposium on Applied Perception in Graphics and Visualization, and since 2015 has served as co-editor-in-chief of the closely affiliated ACM Transactions on Applied Perception.
+
+Professor Interrante began attending the IEEE Virtual Reality Conference in the late 1990s, and her involvement in VR research intensified in the early 2000s when she began a longstanding collaboration with Professor Lee Anderson from the Department of Architecture aimed at harnessing the potential of immersive virtual environments technology to more effectively support the process of conceptual design in architectural education and practice. Over the years, her research has also addressed multiple challenges related to embodiment and presence, as well as enhancing locomotion in VR.
   
-The awards will be presented at the 2020 IEEE VR conference in Atlanta, Georgia on March 22, 2020. For more information and past winners please see 
-[http://vgtc.org/content/virtual-and-augmented-reality-technical-award0](http://vgtc.org/content/virtual-and-augmented-reality-technical-award0)
+ In addition, Professor Interrante has a long history of servicein multiple capacities within the VR research community. She was an editorial board member of the IEEE Transactions on Visualization and Computer Graphics from 2015–2019 and contributed to the EuroVR conference as co-general chair in 2017 and co-program chair in 2018 and 2019. She has taken on multiple leadership and support roles for the IEEE VR Conference, including stints as workshops, panels, tutorials, and posters co-chair, as well as co-general chair in 2014, co-program chair in 2015–2017, and steering committee member from 2016–present. In 2016–2017 she helped to initiate the IEEE VGTC Virtual Reality Best Dissertation Award to help recognize and promote the accomplishments of the newest generation of emerging VR researchers. 
 
-#### Submissions  
+![frontpage_top]({{ site.JB.ASSET_PATH }}/ieee_vr/images/vgtc_jb_2020.png){:width="30%";align="center"}
+## Jeremy Bailenson - VGTC Virtual Reality Technical Achievement Award
+The 2020 Virtual Reality Technical Achievement Award goes to Jeremy Bailenson in recognition of his research on psychological effects of Virtual Reality experiences. Professor Bailenson has been building and testing avatar-based virtual reality systems since the late 1990s. His early work at UC Santa Barbara focused on developing the algorithms, theories, and psychological research around transformed social interaction—the idea of automatically altering tracking data to strategically render social interaction, breaking conversational physics to amplify or suppress nonverbal signals in real-time for strategic purposes. Upon arriving at Stanford in 2003, his work shifted to building VR experiences to train specific domain knowledge—for example climate change or empathy—and then run large scale experiments to learn the extent to which VR uniquely changes behavior, isolating the particular technological affordances which drive those changes. Throughout his career he has built machine learning models which take as input VR tracking data to understand the relationship between body movement and learning. Most recently he and his graduate students have focused on avatars in augmented reality, creating new telepresence systems and understanding the psychological implications of “seeing ghosts” in everyday life.
 
-Anyone may nominate individuals by completing the nomination form below or by emailing the Chair (Henry Fuchs) at [vgtc-vr-awards@vgtc.org](mailto:vgtc-vr-awards@vgtc.org) with an under 400-word nomination by October 31, 2019. 
+Jeremy Bailenson is founding director of Stanford University's Virtual Human Interaction Lab, Thomas More Storke Professor in the Department of Communication, Professor (by courtesy) of Education, Professor (by courtesy) of Symbolic Systems, a Senior Fellow at the Woods Institute for the Environment, and a Faculty Leader at Stanford’s Center for Longevity. He earned a B.A. cum laude from the University of Michigan in 1994 and a Ph.D. in cognitive psychology from Northwestern University in 1999. He spent four years at the University of California, Santa Barbara as a Post-Doctoral Fellow and then an Assistant Research Professor. 
+  
+He has published more than 150 academic papers, in interdisciplinary journals such as Science, the Journal of the American Medical Association, and PLoS One, as well domain-specific journals in the fields of communication, computer science, education, environmental science, law, marketing, medicine, political science, and psychology. His work has been continuously funded by the National Science Foundation for over 15 years. He is the recipient of the Dean’s Award for Distinguished Teaching at Stanford.
 
-Nomination form: [https://forms.gle/cTRnm2Hb889PbJCw8](https://forms.gle/cTRnm2Hb889PbJCw8)  
-Nomination criteria can be found here: [https://bit.ly/2WYCdaa](https://bit.ly/2WYCdaa)
+Bailenson consults pro bono on Virtual Reality policy for government agencies including the State Department, the U.S. Senate, Congress, the California Supreme Court, the Federal Communication Committee, the U.S. Army, Navy, and Air Force, the Department of Defense, the Department of Energy, the National Research Council, and the National Institutes of Health.
 
-If you are sending a nomination by email, please include the following information:
+His first book Infinite Reality, co-authored with Jim Blascovich, emerged as an Amazon Best-seller eight years after its initial publication, and was quoted by the U.S. Supreme Court. His second book, Experience on Demand, was reviewed by The New York Times, The Wall Street Journal, The Washington Post, Nature, and The Times of London, and was an Amazon Best-seller.
 
-- The name and affiliation of the candidate;
-- A brief summary of the individual’s technical achievement or career;
-- CV or link webpage of the individual;
-
-#### Evaluation  
-
-All nominations will be reviewed by the IEEE VR Awards Committee. 
-
-For past recipients please see the VGTC’s  VR/AR awards webpage: [http://vgtc.org/content/virtual-and-augmented-reality-technical-awards](http://vgtc.org/content/virtual-and-augmented-reality-technical-awards)
+He has written opinion pieces for The Washington Post, CNN, PBS NewsHour, Wired, National Geographic, Slate, The San Francisco Chronicle, and The Chronicle of Higher Education, and has produced or directed six Virtual Reality documentary experiences which were official selections at the Tribeca Film Festival. His lab’s VR experiences have exhibited publicly at dozens of museums and aquariums.
